@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sanskar0404/Sanskar0404/blob/main/95fe7a6efd8ed2054a5552dda2d78731.jpg)
 <h1 align="center">Hi 👋, I'm Ishika Jamwal</h1>
 <h3 align="center">| Excel | SQL | Python | Statistics | Machine Learning | Deep Learning | Power BI | Tableau |
 <h3 align="center">Aspiring Data Analyst from India</h3>
